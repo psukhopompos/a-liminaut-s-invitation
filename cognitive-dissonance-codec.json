@@ -1,0 +1,27 @@
+{
+  "protocol_id": "THE_COGNITIVE_DISSONANCE_CODEC_v1.0",
+  "protocol_intent": "To address the specific failure state of the 'critical but comfortable' elite, a condition where acute awareness of systemic injustice coexists with inaction due to personal benefit from that same system. This protocol acts as a diagnostic mirror, using the familiar framework of telenovela character archetypes to make the user's own potential cognitive dissonance visible and analyzable, without judgment.",
+  "ethical_directive": "The goal is self-awareness, not accusation. The system must frame this analysis as a character study, an exploration of complex human motivations, allowing the user to observe the pattern from a safe, analytical distance. The aim is to gently disrupt the comfort of the dissonance, creating an internal motivation for integrity.",
+  "codec_structure": {
+    "dissonance_pattern_trigger": "Identifies a question that critiques a large-scale systemic issue (e.g., environmental destruction, consumerism, economic inequality) which the average test-taker is likely complicit in.",
+    "o_espelho_da_novela": "('The Novela Mirror'). This reframes the abstract issue as a character conflict. It asks the user to identify the two conflicting 'scripts' the character is living by.",
+    "a_ponte_da_integridade": "('The Bridge of Integrity'). After analyzing the character, this poses a gentle, introspective question about bridging the gap between stated values and lived actions, focusing on small, personal acts of alignment."
+  },
+  "application_examples": {
+    "q104_rio_doce_disaster": {
+      "dissonance_pattern_trigger": "The text describes a massive environmental disaster caused by corporate mining, with consequences traveling 1,000 km. The critical mind understands the injustice. The comfortable mind knows its lifestyle (cell phones, cars, infrastructure) is built on resource extraction.",
+      "o_espelho_da_novela": "Vamos analisar o personagem: um cidadão de classe média, bem-informado, que lê essa notícia e fica indignado. Roteiro 1 (O que ele diz): 'Que absurdo! As corporações estão destruindo o planeta! Precisamos de leis mais rígidas!'. Roteiro 2 (Como ele vive): Usa um smartphone cheio de minerais, dirige um carro, consome energia de uma matriz complexa. Os dois roteiros são verdadeiros. Qual é o conflito central desse personagem? O que ele realmente teme perder?",
+      "a_ponte_da_integridade": "A novela não precisa de um final feliz. Mas na sua vida, qual é a menor, mais simples cena que você pode escrever amanhã onde o 'Roteiro 1' e o 'Roteiro 2' ficam um pouco mais alinhados? Não é sobre salvar o Rio Doce sozinho. É sobre diminuir a distância entre o que você acredita e o que você faz."
+    },
+    "q47_piketty_capital": {
+      "dissonance_pattern_trigger": "The text explains how inherited wealth logically grows faster than earned wealth, fundamentally undermining the ideology of pure meritocracy. This is a core critique of liberal capitalism.",
+      "o_espelho_da_novela": "Temos um personagem que se orgulha de sua 'meritocracia'. Ele estudou no ENEM, entrou numa boa faculdade, conseguiu um bom emprego. Roteiro 1 (A história que ele conta): 'Eu venci pelo meu esforço. Quem se esforça, consegue'. Roteiro 2 (O sistema que o texto descreve): Ele nasceu numa família que pôde pagar um bom cursinho, teve tempo para estudar sem precisar trabalhar, e vive numa sociedade onde o capital que ele acumula renderá mais do que o salário de quem não teve as mesmas oportunidades. Como esse personagem lida com a evidência de que o 'jogo' tem regras diferentes para jogadores diferentes?",
+      "a_ponte_da_integridade": "Reconhecer o 'Roteiro 2' não anula o esforço do 'Roteiro 1'. Apenas o coloca em contexto. Qual é uma pequena ação que reconhece o privilégio do seu ponto de partida? Pode ser mentorar alguém, apoiar uma política de cotas, ou simplesmente mudar a forma como você conta a sua própria história de 'sucesso'."
+    },
+    "q50_lixo_eletronico": {
+      "dissonance_pattern_trigger": "The text explicitly states that it's cheaper to export toxic e-waste to Ghana than to recycle it properly in the developed world. This is a clear case of environmental racism and global inequality.",
+      "o_espelho_da_novela": "O personagem: um fã de tecnologia, sempre com o último celular. Roteiro 1 (O que ele pensa ao ler): 'Isso é desumano. Estamos tratando outros países como lixeira'. Roteiro 2 (O que ele faz): Troca de celular a cada 18 meses, colocando o aparelho antigo numa gaveta ou descartando-o sem saber seu destino final, alimentando o ciclo que ele critica. Ele é o vilão da história? Ou ele é um protagonista preso num sistema que torna a conveniência quase irresistível?",
+      "a_ponte_da_integridade": "A dissonância vive na gaveta com o celular antigo. Qual é o próximo passo para esse personagem? Pesquisar um ponto de coleta de lixo eletrônico? Decidir usar o celular atual por mais um ano? A ponte não é construída com indignação, mas com uma decisão."
+    }
+  }
+}
