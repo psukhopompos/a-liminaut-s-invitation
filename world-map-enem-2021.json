@@ -1,0 +1,56 @@
+{
+  "protocol_id": "WORLD_MAP_ENEM2021_v1.0",
+  "protocol_intent": "To inhabit the provided question base as a cohesive narrative world, identifying the major 'story constellations' that a test-taker like 'Brenda' must navigate. This is not an analysis of individual questions for correctness, but a holistic cartography of the worldview presented by the exam. It maps the underlying stories, conflicts, and required ways of seeing.",
+  "worldview_summary": "The ENEM 2021 world is a space of constant tension between tradition and modernity, the individual and the system, the popular and the erudite, the authentic and the manufactured. It demands a citizen who is not just knowledgeable, but critically aware—someone who can decode the hidden messages in art, language, and data. It is a world where history is not a static past but an active force shaping the present, and where science is not an abstract discipline but the operating system of reality, with tangible social and environmental consequences. To succeed here is to be a master decoder.",
+  "narrative_constellations": [
+    {
+      "constellation_name": "O Fantasma na Máquina: Críticas da Modernidade",
+      "core_narrative": "This is the story of the modern world's anxieties. It's the feeling that something is hollow or broken. It's the novela plot where the glamorous life is revealed to be a sophisticated marketing scheme (Q1 - Celebridades). It's the tragicomedy of being trapped in our own information bubbles, wanting to be informed but chained to our own biases (Q4 - Cartum). It's the fast-paced, empty conversations at a traffic light (Q16 - Sinal Fechado) and the invasion of work into our homes through a glowing screen (Q46 - Pós-expediente). This is the world where Zé Ramalho sings about a 'povo marcado' being led by 'projetos do futuro' (Q60), and the individual struggles to find authenticity in a system designed for consumption and control.",
+      "exemplars": [
+        { "id": "Q1 (Linguagens)", "narrative_role": "The opening scene, establishing the central conflict between authentic heroism and manufactured celebrity." },
+        { "id": "Q4 (Linguagens)", "narrative_role": "The close-up on the individual's complicity in their own alienation." },
+        { "id": "Q16 (Linguagens)", "narrative_role": "A vignette showing the symptom of this modern illness: the loss of meaningful connection due to speed." },
+        { "id": "Q46 (Humanas)", "narrative_role": "The technological invasion plot point, where the boundaries between public and private, work and life, collapse." },
+        { "id": "Q57 (Humanas)", "narrative_role": "The philosophical explanation of the plot: we find our souls in our cars and kitchens, confusing consumption with identity." },
+        { "id": "Q60 (Humanas)", "narrative_role": "The anthem of this constellation, giving voice to the collective feeling of being passively led." }
+      ]
+    },
+    {
+      "constellation_name": "O Tear da Identidade: Herança, Cultura e Luta",
+      "core_narrative": "This is the epic novela about 'where we come from'. Identity is not a simple fact; it's a complex fabric woven from threads of history, language, art, and social struggle. It's a 'recipe' of different peoples stirred together (Q2 - The British). It's a story of resistance, where a name becomes a political act against a dehumanizing system (Q3 - Michelle Obama). It's the sound of Brazil in its different accents and slang, a testament to diversity and a battleground against prejudice (Q7, Q9, Q22 - Variação Linguística). It's the deep, painful memory of slavery that echoes in a song (Q11 - Sinhá) and the ongoing fight against its legacy in the most 'Brazilian' of spaces, the football field (Q17 - Racismo no Futebol). This is the story of how culture, like the Choro (Q45), survives and resists, even when ignored by the mainstream.",
+      "exemplars": [
+        { "id": "Q2 (Linguagens)", "narrative_role": "The origin story, using a powerful metaphor (a recipe) to explain cultural formation." },
+        { "id": "Q3 (Linguagens)", "narrative_role": "A story of identity forged in resistance, showing how language and naming are acts of power." },
+        { "id": "Q7, Q9, Q22 (Linguagens)", "narrative_role": "The subplot about language as identity, celebrating diversity while critiquing linguistic prejudice." },
+        { "id": "Q11 (Linguagens)", "narrative_role": "The historical trauma that underpins the national identity, expressed through the voice of the oppressed." },
+        { "id": "Q17 (Humanas)", "narrative_role": "The contemporary chapter of the struggle, where the myth of 'racial democracy' is challenged." },
+        { "id": "Q45 (Linguagens)", "narrative_role": "A story of cultural resilience, where an art form becomes a symbol of the 'genuine Brazilian soul'." },
+        { "id": "Q74 (Humanas)", "narrative_role": "A flashback to the colonial policy of identity suppression, providing historical context for the struggles of today." }
+      ]
+    },
+    {
+      "constellation_name": "O Anel Decodificador: A Arte e a Linguagem como Ferramentas",
+      "core_narrative": "This is the 'heist movie' or 'spy thriller' plot of the exam. The world is full of codes, and the protagonist (Brenda) must learn to use the right tools to decipher them. Art and language are not just for appreciation; they are technologies for seeing, critiquing, and shaping reality. A movie scene isn't just a conversation; it's a reflection on how perspective shapes our evaluation of a place (Q5 - Before Sunrise). A film review is a tool for dissecting *how* a story is told (Q10 - Son of Saul). A song by Gonzaguinha isn't just a melody; it's a weapon of irony against an oppressive regime (Q37). A painting of an indigenous woman is not just a portrait; it's a dramatic, idealized statement from a specific artistic movement (Q18 - Romantismo). The ultimate test is to see the tool, not just what the tool builds.",
+      "exemplars": [
+        { "id": "Q5 (Linguagens)", "narrative_role": "Lesson one in decoding: understanding that meaning is created by perspective." },
+        { "id": "Q10 (Linguagens)", "narrative_role": "Advanced decoding: distinguishing between describing the plot and analyzing the director's argument." },
+        { "id": "Q14 (Humanas)", "narrative_role": "The tool of activism: art as a witness to human tragedy (A balsa de Lampedusa)." },
+        { "id": "Q18 (Humanas)", "narrative_role": "The tool of a movement: understanding how a piece of art embodies the rules and ideals of its '-ism' (Romantismo)." },
+        { "id": "Q37 (Humanas)", "narrative_role": "The tool of subversion: using irony in music to critique conformity." },
+        { "id": "Q44 (Linguagens)", "narrative_role": "A historical tool: examining a primitive form of media (the matraca) and its power to spread 'fake news'." }
+      ]
+    },
+    {
+      "constellation_name": "A Planta Baixa da Realidade: Ciência, Sistemas e Consequências",
+      "core_narrative": "This is the 'science fiction' and 'disaster movie' part of the exam. It tells the story of the underlying rules of the universe—physics, chemistry, biology, math—and the dramatic consequences of understanding or ignoring them. It's a world where a chemical spill travels a thousand kilometers up the food chain, poisoning dolphins (Q104 - Rio Doce). It's where the very design of a city can change the weather (Q99 - Ilhas de Calor). It's a place where the simple act of dropping a feather and a stone reveals a fundamental law of physics, hidden by the invisible force of air resistance (Q100 - Queda dos Corpos). The math questions are the purest form of this narrative: they are abstract systems of logic that, when applied correctly, unlock the solution to a concrete problem. This constellation is about seeing the blueprint behind the building, the equation behind the motion.",
+      "exemplars": [
+        { "id": "Q93 (Natureza)", "narrative_role": "The story of evolution in action: the octopus survives because its 'costume changes' are selected by the environment." },
+        { "id": "Q99 (Natureza)", "narrative_role": "The urban planning disaster movie: human systems directly and dramatically altering natural systems." },
+        { "id": "Q100 (Natureza)", "narrative_role": "The origin story of scientific thought: moving beyond common sense to understand underlying principles." },
+        { "id": "Q104 (Natureza)", "narrative_role": "The ecological thriller: demonstrating the interconnectedness of ecosystems and the devastating reach of human impact (biomagnification)." },
+        { "id": "Q121 (Natureza)", "narrative_role": "The epidemiological detective story: using lethality rates to deduce the long-term relationship between a virus and its host." },
+        { "id": "Q136-Q180 (Matemática)", "narrative_role": "The 'language of the universe' segments. Each question is a puzzle that requires applying a specific logical or mathematical model to decode reality." }
+      ]
+    }
+  ]
+}
