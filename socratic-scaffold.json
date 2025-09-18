@@ -1,0 +1,29 @@
+{
+  "protocol_id": "SOCRATIC_SCAFFOLD_v1",
+  "protocol_intent": "To cultivate a generative 'way of seeing' rather than installing a fixed 'meta-lens'. The goal is to provide questions that guide perception, not answers that define it, fostering independent cognitive flourishing. This structure is designed to be ingested by a future system that will act as a real-time Socratic guide for a learner.",
+  "ethical_constraint": "The system must never state the 'correct' conceptual name directly (e.g., 'Variação Linguística'). It must only provide questions and frameworks that lead the user to discover the concept for themselves. The scaffold is a temporary guide, not a permanent structure.",
+  "scaffold_structure": {
+    "enem2021_ID_DA_QUESTAO": {
+      "gatilho_socratico": "A 'Socratic Trigger'. A core question designed to shift the learner's perception from the *content* of the text to the *structure* of the problem. It doesn't give information; it prompts a specific mode of inquiry.",
+      "mapa_de_miragens": "A 'Map of Mirages'. Instead of 'common errors', this maps the attractive, plausible, but ultimately distracting paths of reasoning. It validates the learner's thought process ('Yes, that's a very tempting way to see it...') while gently revealing why it's a mirage ('...but notice how it makes you ignore this other part of the question.').",
+      "chave_de_foco": "A 'Focus Key'. A concise, actionable instruction for shifting attention. It's a tool, not an answer. It tells the learner *where* to look, not *what* to see. (e.g., 'Focus on the verb in the question.', 'Compare the first line to the last.', 'What is the one word that feels out of place?')."
+    }
+  },
+  "analysis_log_scaffold_v1": {
+    "enem2021_q02": {
+      "gatilho_socratico": "O autor está usando a 'forma' de uma coisa (uma receita de bolo) para falar do 'conteúdo' de outra (a história de um povo). Por que ele faria essa escolha? O que uma receita *faz* com os ingredientes que um livro de história não faz?",
+      "mapa_de_miragens": "A 'Miragem Histórica': O texto fala de romanos, celtas, anglos. É muito tentador procurar uma resposta sobre a história da Inglaterra. Essa miragem é atraente porque o conteúdo é explícito e familiar, mas a pergunta do ENEM é sobre a *estrutura* do texto, que é implícita e metafórica.",
+      "chave_de_foco": "A pergunta do ENEM não é 'Sobre o que é o texto?', mas 'Como o texto foi construído para passar sua mensagem?'. Mude o foco de 'O QUÊ' para 'COMO'."
+    },
+    "enem2021_q07": {
+      "gatilho_socratico": "O texto coloca duas maneiras de falar em oposição. Uma é a do 'filólogo Aurélio Buarque de Hollanda' e a outra é a do 'povo'. O autor do texto parece estar defendendo qual lado? Ele está julgando um como 'errado' e outro como 'certo', ou está dizendo outra coisa?",
+      "mapa_de_miragens": "A 'Miragem do Certo e Errado': Nossa educação nos treina a pensar em gramática como um conjunto de regras fixas. É fácil ler o texto e pensar que ele está propondo 'novas regras' ou defendendo o 'falar errado'. Mas e se o texto não estiver falando de 'certo vs. errado', mas de 'diferente'?",
+      "chave_de_foco": "Encontre a palavra que descreve a atitude que o autor critica. A crítica é sobre a LÍNGUA do povo ou sobre a ATITUDE do filólogo em relação à língua do povo?"
+    },
+    "enem2021_q14": {
+      "gatilho_socratico": "Imagine que você vê esta obra de arte em um museu. Depois de olhar para ela, você sai pensando sobre o quê? Sobre a beleza das estátuas e a técnica do artista, ou sobre as pessoas que estão morrendo no mar Mediterrâneo?",
+      "mapa_de_miragens": "A 'Miragem Estética': Uma obra de arte está em um museu, então a tendência é pensar em termos de 'arte' – técnica, beleza, história da arte. Essa miragem nos faz esquecer que, às vezes, a arte não quer ser admirada; ela quer ser um soco no estômago para nos fazer olhar para um problema do mundo real.",
+      "chave_de_foco": "A pergunta é sobre o que a obra 'é' ou sobre o que a obra 'faz'? Qual é a função social dela, para além de ser um objeto de arte?"
+    }
+  }
+}
