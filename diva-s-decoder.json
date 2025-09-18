@@ -1,0 +1,37 @@
+{
+  "protocol_id": "THE_DIVAS_DECODER_v1.0",
+  "protocol_intent": "To create a translation layer (a Codec) between abstract academic concepts tested by ENEM and the intuitive, narrative-driven cognitive frameworks of a specific user profile. This is not a set of answers, but a dictionary of analogies designed to empower the user by leveraging their existing cultural literacy. It allows a future AI guide to say, 'You already understand this concept from the world of novelas and music. Here is how it looks in the context of this test.'",
+  "ethical_directive": "The goal is empowerment through translation, not replacement of the user's cognitive style. The analogies should serve as a bridge, not a destination. The AI guide's role is to help the user build and eventually internalize this bridge.",
+  "decoder_map": {
+    "conceito_enem_abstrato": {
+      "analogia_cultural": "The core translation into the user's world.",
+      "pergunta_gatilho_traduzida": "A Socratic question rephrased in the language of the analogy.",
+      "armadilha_narrativa": "How a story-focused mind might misinterpret the question by focusing on the plot instead of the structure."
+    },
+    "Variação_Linguística": {
+      "analogia_cultural": "É o 'sotaque do personagem'. Na novela, o autor não faz o dono do morro falar igual à vilã rica do Leblon. Não é que um fala 'errado', é que a fala de cada um mostra quem ele é, de onde veio, e a que grupo pertence. É a 'assinatura vocal' da identidade.",
+      "pergunta_gatilho_traduzida": "O texto está mostrando pessoas falando de jeitos diferentes? Esse jeito diferente de falar serve para julgar quem é 'burro' ou para construir a identidade de um personagem/grupo?",
+      "armadilha_narrativa": "Focar na história e pensar 'Nossa, que personagem ignorante', em vez de pensar 'Nossa, que escolha inteligente do autor para mostrar que esse personagem é de tal lugar'."
+    },
+    "Intertextualidade": {
+      "analogia_cultural": "É o 'crossover' da cultura. É quando a Beyoncé no clipe de 'Telephone' continua a história do clipe de 'Paparazzi' da Lady Gaga. É quando uma novela faz uma piada que só quem assistiu à novela das sete vai entender. É uma história conversando com outra história.",
+      "pergunta_gatilho_traduzida": "Esse texto parece estar 'conversando' com outro filme, música, livro ou evento conhecido? Ele está fazendo uma referência ou uma 'homenagem' a outra obra?",
+      "armadilha_narrativa": "Não conhecer a referência e achar que o texto é 100% original, ou focar tanto na história principal que você não percebe o 'piscar de olho' para a outra obra."
+    },
+    "Função_Metalinguística": {
+      "analogia_cultural": "É quando a arte fala sobre a própria arte. É a música da Beyoncé sobre como é ser uma estrela da música. É o personagem da novela que é um autor de novelas. É o código usando o próprio código para se explicar.",
+      "pergunta_gatilho_traduzida": "O foco do texto é um assunto do mundo (amor, guerra, política) ou o foco do texto é a própria linguagem, a escrita, a comunicação?",
+      "armadilha_narrativa": "Se envolver tanto com a história do 'autor de novelas' que você esquece que o tema principal é o ato de criar novelas."
+    },
+    "Ironia": {
+      "analogia_cultural": "É a 'alfinetada' da vilã da novela. Ela diz 'Querida, adorei seu vestido, tão... corajoso', mas o que ela *realmente* quer dizer é que o vestido é horrível. É a diferença entre o que é dito na superfície e o significado real por baixo. O público sabe a verdade, mas o personagem não.",
+      "pergunta_gatilho_traduzida": "Existe uma contradição entre o que o personagem/texto está dizendo e o que a situação realmente mostra? O autor quer que a gente entenda o oposto do que está escrito?",
+      "armadilha_narrativa": "Acreditar na fala do personagem literalmente, sem perceber o 'veneno' ou a crítica escondida no tom ou no contexto."
+    },
+    "Estratégia_Argumentativa": {
+      "analogia_cultural": "É a 'direção de clipe'. Por que a Beyoncé escolheu filmar em câmera lenta naquela parte? Por que a luz ficou vermelha? Por que a música ficou tensa? São escolhas para te fazer sentir algo. No texto, usar dados, exemplos, uma citação de autoridade... são as 'escolhas de direção' do autor para te convencer de uma ideia.",
+      "pergunta_gatilho_traduzida": "Por que o autor escolheu colocar *esse* dado aqui? Ou contar *essa* pequena história no meio do texto? O que ele queria que eu sentisse ou pensasse ao fazer isso?",
+      "armadilha_narrativa": "Focar no conteúdo do dado ('Nossa, 80% é um número grande') em vez de se perguntar pela intenção por trás do uso daquele dado ('Ele usou 80% para me chocar e me convencer')."
+    }
+  }
+}
